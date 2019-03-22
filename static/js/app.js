@@ -16,7 +16,7 @@ data.forEach(function(ufoData){
 
     })
 })
-// event listener
+// event listener setup
 button.on("click", handleClick);
 
 // function to handle button click
